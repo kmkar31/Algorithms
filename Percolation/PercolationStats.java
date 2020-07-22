@@ -1,7 +1,7 @@
 /* *****************************************************************************
- *  Name:              Alan Turing
- *  Coursera User ID:  123456
- *  Last modified:     1/1/2019
+ *  Name:              Karthik Karumanchi
+ *  Coursera User ID:  
+ *  Last modified:    
  **************************************************************************** */
 
 import edu.princeton.cs.algs4.StdRandom;
