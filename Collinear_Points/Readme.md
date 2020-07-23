@@ -14,4 +14,4 @@
 
 The Left side image shows the image obtained and the right side is the image given to verify.
 <br><br>
-<img src='Collinear_Points/RS_join.jpg'>
+<img src='RS_join.jpg'>
