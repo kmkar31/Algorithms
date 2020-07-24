@@ -2,7 +2,7 @@
 
 ## Implement a K-D-Tree structure to find out all points within a rectangular area of interest and also find the closest point to the point of interest given a set of points.
 
-<img src="kdtree/logo.png">
+<img src="logo.png">
 
 ## Implementation
 
@@ -19,4 +19,4 @@ The nearest neighbor according to the brute-force algorithm is drawn in red; the
 
 ## Output
 
-<img src="kdtree/circle10.png">
+<img src="circle10.png">
