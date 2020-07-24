@@ -2,7 +2,7 @@
 
 ## Use the A* algorithm to create a solver for the 8Puzzle and all higher variants of the same
 
-<img src='8puzzle/logo.png'>
+<img src='logo.png'>
 
 ## Implementation
 
