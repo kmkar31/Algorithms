@@ -2,7 +2,7 @@
 
 ## Use Directed Acyclic Graphs(DAG) to process WordNets 
 
-<img src='WordNet/logo.png'>
+<img src='logo.png'>
 
 ## Implementation
 
@@ -24,12 +24,12 @@ between two vertices.</li>
 ## Unit-Testing and Output:
 ### Test if the WordNet constructor throws errors when the graph is not a rooted DAG
 
-<img src='WordNet/Wordnet_graph_testing.png'>
+<img src='Wordnet_graph_testing.png'>
 
 ### Test if the shortest ancestral path length and ancestor are correct
 
-<img src='WordNet/SAP_unit_testing.png'>
+<img src='SAP_unit_testing.png'>
 
 ### Test if the correct outcast word is returned
 
-<img src='WordNet/Outcast_unit_testing.png'>
+<img src='Outcast_unit_testing.png'>
