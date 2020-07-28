@@ -49,4 +49,4 @@
 #### Chameleon.png
 ##### Reduce width by 200px
 
-<img src='Tests_&_Outputs/Chameleon(-200,0).png'>
+<img src='Tests_&_Outputs/chameleon(-200,0).png'>
