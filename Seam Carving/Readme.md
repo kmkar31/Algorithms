@@ -19,34 +19,34 @@
 
 ### CLI Tests
 
-<img src='Seam Carving/Tests_&_Outputs/Energy_unit_testing.png'>
-<img src='Seam carving/Tests_&_Outputs/Seam_unit_testing_01.png'>
-<img src='Seam carving/Tests_&_Outputs/Seam_unit_testing_02.png'>
+<img src='Tests_&_Outputs/Energy_unit_testing.png'>
+<img src='Tests_&_Outputs/Seam_unit_testing_01.png'>
+<img src='Tests_&_Outputs/Seam_unit_testing_02.png'>
 
 ### Image Tests
 
-<img src='Seam carving/Tests_&_Outputs/energy_diagram.png'>
-<img src='Seam carving/Tests_&_Outputs/seam_diagram.png'>
+<img src='Tests_&_Outputs/energy_diagram.png'>
+<img src='Tests_&_Outputs/seam_diagram.png'>
 
 ### Resized images
 #### HJocean.png
 ##### Reduce width by 200px
 
-<img src='Seam carving/Tests_&_Outputs/HJocean(-200,0).png'>
+<img src='Tests_&_Outputs/HJocean(-200,0).png'>
 
 ##### Reduce width by 100px and height by 50px
 
-<img src='Seam carving/Tests_&_Outputs/HJocean(-100,-50).png'>
+<img src='Tests_&_Outputs/HJocean(-100,-50).png'>
 
 ##### Reduce width by 50px and height by 100px
 
-<img src='Seam carving/Tests_&_Outputs/HJocean(-50,-100).png'>
+<img src='Tests_&_Outputs/HJocean(-50,-100).png'>
 
 ##### Reduce both height and width by 50px
 
-<img src='Seam carving/Tests_&_Outputs/HJocean(-50,-50).png'>
+<img src='Tests_&_Outputs/HJocean(-50,-50).png'>
 
 #### Chameleon.png
 ##### Reduce width by 200px
 
-<img src='Seam carving/Tests_&_Outputs/Chameleon(-50,-100).png'>
+<img src='Tests_&_Outputs/Chameleon(-50,-100).png'>
