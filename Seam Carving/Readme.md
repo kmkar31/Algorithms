@@ -36,17 +36,17 @@
 
 ##### Reduce width by 100px and height by 50px
 
-<img src='Tests_&_Outputs/HJocean(-100,-50).png'>
+<img src='Tests_&_Outputs/HJocean_(-100,-50).png'>
 
 ##### Reduce width by 50px and height by 100px
 
-<img src='Tests_&_Outputs/HJocean(-50,-100).png'>
+<img src='Tests_&_Outputs/HJocean_(-50,-100).png'>
 
 ##### Reduce both height and width by 50px
 
-<img src='Tests_&_Outputs/HJocean(-50,-50).png'>
+<img src='Tests_&_Outputs/HJocean_(-50,-50).png'>
 
 #### Chameleon.png
 ##### Reduce width by 200px
 
-<img src='Tests_&_Outputs/Chameleon(-50,-100).png'>
+<img src='Tests_&_Outputs/Chameleon_(-200,0).png'>
