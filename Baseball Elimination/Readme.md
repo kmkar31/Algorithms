@@ -37,16 +37,16 @@ A Subset <b>R</b> of the division teams is formed . The subset R for an eliminat
  
  ### Output for the above example
  
-<img src='Baseball Elimination/Outputs/output1.png'>
+<img src='Outputs/output1.png'>
 
 ### At the end of all Group Stage games
 
-<img src='Baseball Elimination/Outputs/EndOfTournament.png'>
+<img src='Outputs/EndOfTournament.png'>
 
 ### 12-Country division
 
-<img src='Baseball Elimination/Outputs/team12.png'>
+<img src='Outputs/team12.png'>
 
 ### 60-Team division
 
-<img src='Baseball Elimination/Outputs/team60.jpg'>
+<img src='Outputs/team60.jpg'>
